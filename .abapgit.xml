@@ -5,6 +5,34 @@
    <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>FULL</FOLDER_LOGIC>
+   <IGNORE>
+    <item>/src/z_fill_dynamic_structure.prog.abap</item>
+    <item>/src/z_fill_dynamic_structure.prog.xml</item>
+    <item>/src/zcl_build_structure_hierarchy.clas.abap</item>
+    <item>/src/zcl_build_structure_hierarchy.clas.xml</item>
+    <item>/src/zcl_get_cds_hierarchy.clas.abap</item>
+    <item>/src/zcl_get_cds_hierarchy.clas.xml</item>
+    <item>/src/zcl_get_domain_fix_values.clas.abap</item>
+    <item>/src/zcl_get_domain_fix_values.clas.xml</item>
+    <item>/src/zcl_json_field_reader.clas.abap</item>
+    <item>/src/zcl_json_field_reader.clas.xml</item>
+    <item>/src/zcl_json_to_xml.clas.abap</item>
+    <item>/src/zcl_json_to_xml.clas.xml</item>
+    <item>/src/zcl_test_api_call.clas.abap</item>
+    <item>/src/zcl_test_api_call.clas.xml</item>
+    <item>/src/ztest_code_logic.prog.abap</item>
+    <item>/src/ztest_code_logic.prog.xml</item>
+    <item>/src/ztest_dynamic_function_call.prog.abap</item>
+    <item>/src/ztest_dynamic_function_call.prog.xml</item>
+    <item>/src/ztest_get_odata_properties.prog.abap</item>
+    <item>/src/ztest_get_odata_properties.prog.xml</item>
+    <item>/src/ztest_instance.prog.abap</item>
+    <item>/src/ztest_instance.prog.xml</item>
+    <item>/src/ztest_json.prog.abap</item>
+    <item>/src/ztest_json.prog.xml</item>
+    <item>/src/ztest_read_idoc_segment.prog.abap</item>
+    <item>/src/ztest_read_idoc_segment.prog.xml</item>
+   </IGNORE>
   </DATA>
  </asx:values>
 </asx:abap>
